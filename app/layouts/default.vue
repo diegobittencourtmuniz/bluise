@@ -31,7 +31,7 @@ export default class DefaultLayout extends Vue {}
 .light {
     padding-top: 3rem;
     padding-bottom: 6rem;
-    background-image: url(../images/background.svg);
+    background-image: url("https://blazor.radzen.com/images/background.svg");
     background-repeat: no-repeat;
     background-position: 50% -700px;
 }
